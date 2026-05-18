@@ -1,6 +1,6 @@
 
 import React from "react";
-import Posts from "Posts.jsx";
+import Posts from "./Posts.jsx";
 import './../styles/App.css';
 
 const App = () => {
